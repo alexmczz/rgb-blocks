@@ -43,8 +43,8 @@ main{
 }
 
 .box{
-    background-color:blue;
-    color: blue;
+    background-color:rgb(32, 32, 32);
+    color: rgb(32, 32, 32);
     filter: blur(.25rem);
     transition: 1.5s;
     border-radius: 0%;
